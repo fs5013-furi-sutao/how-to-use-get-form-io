@@ -22,20 +22,28 @@ Getform.io はお問い合わせフォームのエンドポイントになって
 
 ## フォームの使い方
 
-![](./button-of-generate-endpoint-for-free.png)
+<img src="button-of-generate-endpoint-for-free.png" alt="" width="360" />
 
+<img src="" alt="" width="360" />
 ![](./get-form-sign-up.png)
 
+<img src="" alt="" width="360" />
 ![](./verify-email.png)
 
+<img src="" alt="" width="360" />
 ![](./create-endpoint-for-form.png)
 
+<img src="" alt="" width="360" />
 ![](./show-form-endpoint.png)
 
+<img src="" alt="" width="360" />
 ![](./set-for-sending-email-notification.png)
 
+<img src="" alt="" width="360" />
 ![](./input-into-inquiry-form.png)
 
+<img src="" alt="" width="360" />
 ![](./finished-to-send-contact-form.png)
 
+<img src="" alt="" width="360" />
 ![](./recieved-contacted-content-at-get-form-io.png)
