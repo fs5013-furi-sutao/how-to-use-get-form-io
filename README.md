@@ -26,7 +26,7 @@ Getform.io はお問い合わせフォームのエンドポイントになって
 
 Getform.io のサイトトップページから「Generate endpoint for free」をクリック
 
-<img src="./button-of-generate-endpoint-for-free.png" alt="Getform.io のサイトトップページから「Generate endpoint for free」をクリック" width="480" />
+<img src="./button-of-generate-endpoint-for-free.png" alt="Getform.io のサイトトップページから「Generate endpoint for free」をクリック" width="720" />
 
 アカウント登録を実施
 
@@ -40,7 +40,7 @@ Getform.io のサイトトップページから「Generate endpoint for free」�
 
 Getform.io の管理ページで新規エンドポイントを作成する
 
-<img src="./create-endpoint-for-form.png" alt="Getform.io の管理ページで新規エンドポイントを作成する" width="720" />
+<img src="./create-endpoint-for-form.png" alt="Getform.io の管理ページで新規エンドポイントを作成する" width="480" />
 
 新規作成エンドポイントの URL などを管理ページで確認する
 
@@ -58,8 +58,14 @@ Getform.io の管理ページで新規エンドポイントを作成する
 
 <img src="./input-into-inquiry-form.png" alt="エンドポイントを設定した問い合わせフォームに入力する" width="480" />
 
-<img src="" alt="" width="360" />
-![](./finished-to-send-contact-form.png)
+問い合わせフォームの送信完了
 
-<img src="" alt="" width="360" />
-![](./recieved-contacted-content-at-get-form-io.png)
+<img src="./finished-to-send-contact-form.png" alt="問い合わせフォームの送信完了" width="480" />
+
+問い合わせフォームを受信したことを Getform.io の管理ページで確認
+
+<img src="./recieved-contacted-content-at-get-form-io.png" alt="問い合わせフォームを受信したことを Getform.io の管理ページで確認" width="480" />
+
+メール通知設定で設定したメールアドレスにフォーム受付完了のメールが届いていることを確認する
+
+<img src="./recieved-by-mail-notification.png" alt="問い合わせフォームを受信したことを Getform.io の管理ページで確認" width="480" />
