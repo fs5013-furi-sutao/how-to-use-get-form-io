@@ -30,7 +30,7 @@ Getform.io のサイトトップページから「Generate endpoint for free」�
 
 アカウント登録を実施
 
-<img src="get-form-sign-up.png" alt="" width="480" />
+<img src="get-form-sign-up.png" alt="アカウント登録を実施" width="720" />
 
 登録したメールアドレスにメール認証のメッセージが届くので、「Verify email」をクリック
 
