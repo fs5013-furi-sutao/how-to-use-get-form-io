@@ -27,3 +27,15 @@ Getform.io はお問い合わせフォームのエンドポイントになって
 ![](./get-form-sign-up.png)
 
 ![](./verify-email.png)
+
+![](./create-endpoint-for-form.png)
+
+![](./show-form-endpoint.png)
+
+![](./set-for-sending-email-notification.png)
+
+![](./input-into-inquiry-form.png)
+
+![](./finished-to-send-contact-form.png)
+
+![](./recieved-contacted-content-at-get-form-io.png)
