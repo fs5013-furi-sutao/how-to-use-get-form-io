@@ -22,13 +22,20 @@ Getform.io はお問い合わせフォームのエンドポイントになって
 
 ## フォームの使い方
 
-<img src="button-of-generate-endpoint-for-free.png" alt="" width="360" />
+### アカウントの作成
 
-<img src="" alt="" width="360" />
-![](./get-form-sign-up.png)
+Getform.io のサイトトップページから「Generate endpoint for free」をクリック
 
-<img src="" alt="" width="360" />
-![](./verify-email.png)
+<img src="./button-of-generate-endpoint-for-free.png" alt="Getform.io のサイトトップページから「Generate endpoint for free」をクリック" width="360" />
+
+アカウント登録を実施
+
+<img src="get-form-sign-up.png" alt="" width="480" />
+
+登録したメールアドレスにメール認証のメッセージが届くので、「Verify email」をクリック
+
+<img src="./verify-email.png" alt="録したメールアドレスにメール認証のメッセージが届くので、「Verify email」をクリック" width="480" />
+![](./)
 
 <img src="" alt="" width="360" />
 ![](./create-endpoint-for-form.png)
