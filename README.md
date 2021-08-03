@@ -40,10 +40,11 @@ Getform.io のサイトトップページから「Generate endpoint for free」�
 
 Getform.io の管理ページで新規エンドポイントを作成する
 
-<img src="./create-endpoint-for-form.png" alt="" width="480" />
+<img src="./create-endpoint-for-form.png" alt="Getform.io の管理ページで新規エンドポイントを作成する" width="480" />
 
-<img src="" alt="" width="360" />
-![](./show-form-endpoint.png)
+新規作成エンドポイントの URL などを管理ページで確認する
+
+<img src="./show-form-endpoint.png" alt="新規作成エンドポイントの URL などを管理ページで確認する" width="480" />
 
 <img src="" alt="" width="360" />
 ![](./set-for-sending-email-notification.png)
