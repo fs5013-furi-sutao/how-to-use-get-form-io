@@ -36,21 +36,27 @@ Getform.io のサイトトップページから「Generate endpoint for free」�
 
 <img src="./verify-email.png" alt="録したメールアドレスにメール認証のメッセージが届くので、「Verify email」をクリック" width="480" />
 
-### エンドポイントの作成
+### 新規エンドポイントの作成
 
 Getform.io の管理ページで新規エンドポイントを作成する
 
-<img src="./create-endpoint-for-form.png" alt="Getform.io の管理ページで新規エンドポイントを作成する" width="480" />
+<img src="./create-endpoint-for-form.png" alt="Getform.io の管理ページで新規エンドポイントを作成する" width="720" />
 
 新規作成エンドポイントの URL などを管理ページで確認する
 
-<img src="./show-form-endpoint.png" alt="新規作成エンドポイントの URL などを管理ページで確認する" width="480" />
+<img src="./show-form-endpoint.png" alt="新規作成エンドポイントの URL などを管理ページで確認する" width="720" />
 
-<img src="" alt="" width="360" />
-![](./set-for-sending-email-notification.png)
+### メール通知の設定
 
-<img src="" alt="" width="360" />
-![](./input-into-inquiry-form.png)
+管理ページの「Automation」欄で、メール通知を設定する
+
+<img src="./set-for-sending-email-notification.png" alt="管理ページの「Automation」欄で、メール通知を設定する" width="480" />
+
+### 動作確認
+
+エンドポイントを設定した問い合わせフォームに入力する
+
+<img src="./input-into-inquiry-form.png" alt="エンドポイントを設定した問い合わせフォームに入力する" width="480" />
 
 <img src="" alt="" width="360" />
 ![](./finished-to-send-contact-form.png)
