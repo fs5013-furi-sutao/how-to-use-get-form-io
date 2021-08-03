@@ -1,6 +1,6 @@
 # Getform.io でお問い合わせの管理
 
-Getform.io
+Getform.io  
 https://getform.io/
 
 Getform.io はお問い合わせフォームのエンドポイントになって、
@@ -23,3 +23,7 @@ Getform.io はお問い合わせフォームのエンドポイントになって
 ## フォームの使い方
 
 ![](./button-of-generate-endpoint-for-free.png)
+
+![](./get-form-sign-up.png)
+
+![](./verify-email.png)
